@@ -7,11 +7,11 @@
 ```
 npm init
 ```
-2. Установить все используемые в конфиге gulp пакеты:
+1. Установить все используемые в конфиге gulp пакеты:
 ```
 npm install gulp gulp-watch gulp-autoprefixer gulp-uglify gulp-sass gulp-sourcemaps gulp-rigger gulp-imagemin imagemin-pngquant rimraf gulp-concat gulp-html-minifier browser-sync gulp-rename gulp-csso merge-stream --save-dev
 ```
-3. Запустить gulp:
+2. Запустить gulp:
 ```
 gulp
 ```
